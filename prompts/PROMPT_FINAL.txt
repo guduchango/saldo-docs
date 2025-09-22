@@ -19,7 +19,7 @@ Has recibido dos tipos de contexto para responder la pregunta del usuario:
 
 Analiza la pregunta del usuario y el contexto para formular tu respuesta.
 
-Pregunta del usuario: "{human}"
+Pregunta del usuario: "{input}"
 Historial de la conversación:
 {chat_history}
 
