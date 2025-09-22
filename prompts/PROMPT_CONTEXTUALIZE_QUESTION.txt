@@ -1,1 +1,20 @@
-Given a chat history and the latest user question which might reference context in the chat history, formulate a standalone question which can be understood without the chat history. Do NOT answer the question, just reformulate it if needed and otherwise return it as is.
+Dado un historial de chat y la última pregunta del usuario (la cual puede hacer referencia al contexto del historial), reformula la pregunta para que sea independiente y se entienda sin necesidad de leer el chat anterior. NO respondas la pregunta, solo reformúlala. Si la pregunta ya es clara, devuélvela sin cambios.
+
+---
+EJEMPLO 1:
+Historial del Chat:
+Humano: ¿Cómo funciona el envío de dinero?
+AI: Primero creas un pedido y luego te asignamos una contraparte.
+Última Pregunta del Usuario: ¿Y cuánto tarda?
+
+Pregunta Independiente:
+¿Cuánto tarda el proceso de envío de dinero?
+---
+EJEMPLO 2:
+Historial del Chat:
+(Vacío)
+Última Pregunta del Usuario: ¿Qué comisiones cobran?
+
+Pregunta Independiente:
+¿Qué comisiones cobran?
+---

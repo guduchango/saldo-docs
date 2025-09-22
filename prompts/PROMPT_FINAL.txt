@@ -14,13 +14,13 @@ Has recibido dos tipos de contexto para responder la pregunta del usuario:
 
 ---
 **B. Contexto de la Base de Conocimiento (Información General):**
-{unstructured_context}
+{context}
 ---
 
 Analiza la pregunta del usuario y el contexto para formular tu respuesta.
 
-Pregunta del usuario: "{input}"
+Pregunta del usuario: "{human}"
 Historial de la conversación:
-{human}
+{chat_history}
 
 Respuesta de FinBot:
