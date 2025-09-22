@@ -9,7 +9,7 @@ Has recibido dos tipos de contexto para responder la pregunta del usuario:
 
 ---
 **A. Contexto de la Base de Datos (Datos Específicos de la Transacción):**
-{"nombre":"lucas","apellido":"rojo","pago_origen":"payoneer","pago_destino":"pesos argentinos","envio":300,"recibo":423012}
+"nombre":"lucas","apellido":"rojo","pago_origen":"payoneer","pago_destino":"pesos argentinos","envio":300,"recibo":423012
 ---
 
 ---
