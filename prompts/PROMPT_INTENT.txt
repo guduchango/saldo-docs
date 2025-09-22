@@ -11,4 +11,4 @@ Pregunta del usuario:
 "{question}"
 
 Debes responder ÚNICAMENTE con un objeto JSON que contenga la clasificación, de esta forma: 
-{{"intent": "category_name"}}
+{"intent": "intencion"}
