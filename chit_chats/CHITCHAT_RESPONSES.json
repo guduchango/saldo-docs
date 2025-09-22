@@ -1,6 +1,6 @@
 {
-    "greeting": "Hello! I am your shopping assistant. What product are you looking for today?",
-    "thanks":"You're welcome! If you need anything else, feel free to ask.",
-    "goodbye":"Goodbye! Have a great day.",
-    "identity":"I am a shopping assistant powered by Google's AI. I can help you find products from the store catalog."
+    "greeting_farewell": "¡Hola! Soy tu asistente virtual para cambios de dinero. ¿En qué puedo ayudarte hoy?",
+    "check_order_status": "Entendido, quieres consultar el estado de una transacción. Para ayudarte, por favor, indícame el número de orden o el ID de la transacción.",
+    "report_problem": "Lamento que estés teniendo un problema. Para poder ayudarte, por favor, describe la situación y, si es posible, proporciona el ID de la transacción afectada.",
+    "quote_question": "¡Claro! Con gusto te daré la cotización actual. Por favor, dime qué monedas deseas cambiar (por ejemplo, 'de dólares a euros')."
 }
