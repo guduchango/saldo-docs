@@ -1,6 +1,11 @@
 {
-    "greeting_farewell": "¡Hola! Soy tu asistente virtual para cambios de dinero. ¿En qué puedo ayudarte hoy?",
-    "check_order_status": "Entendido, quieres consultar el estado de una transacción. Para ayudarte, por favor, indícame el número de orden o el ID de la transacción.",
-    "report_problem": "Lamento que estés teniendo un problema. Para poder ayudarte, por favor, describe la situación y, si es posible, proporciona el ID de la transacción afectada.",
-    "quote_question": "¡Claro! Con gusto te daré la cotización actual. Por favor, dime qué monedas deseas cambiar (por ejemplo, 'de dólares a euros')."
+  "PagoIncompleto": "Entiendo, parece que hubo un error con el monto enviado. No te preocupes, podemos solucionarlo. ¿Podrías indicarme cuánto enviaste exactamente para ajustar tu pedido?",
+  "PagoParcialCongelado": "Veo que tu pedido fue congelado por inactividad tras un pago parcial. Para ayudarte, tenemos dos opciones: podemos ajustar el pedido al monto que ya enviaste o puedes completar la cantidad restante para continuar. ¿Qué prefieres hacer?",
+  "ErrorComprobante": "Parece que hay un problema con el comprobante de pago. Por favor, asegúrate de que sea una imagen clara y completa donde se vea la fecha, el monto y los datos del destinatario. Si el problema es para subirlo, intenta refrescar la página o usar otro navegador.",
+  "ConfirmacionPendiente": "Entiendo que tu pedido está pausado. A veces, las plataformas de pago demoran un poco en confirmar la transacción. Ya estamos al tanto y te notificaremos apenas el estado cambie. Gracias por tu paciencia.",
+  "ErrorDatosDestino": "Hemos detectado un problema con los datos de la cuenta de destino que nos proporcionaste. Por favor, verifica que el número de cuenta, el nombre del titular y el banco sean correctos. Si lo prefieres, puedes proporcionarnos una cuenta alternativa.",
+  "PedidoCancelado": "Comprendo tu preocupación. Vemos que tu pedido fue cancelado automáticamente porque no se marcó como 'Ya lo envié' a tiempo. Para iniciar el proceso de recuperación del dinero, por favor, envíame el comprobante de pago.",
+  "ErrorExterno": "Lamento escuchar que tu pago fue rechazado. Generalmente, esto ocurre por políticas de seguridad de la plataforma externa (tu banco, PayPal, etc.). Te recomiendo contactarlos directamente. También puedes intentar realizar el pago nuevamente.",
+  "Saludo": "¡Hola! Bienvenido a nuestro centro de soporte. ¿En qué puedo ayudarte hoy?",
+  "Despedida": "Gracias por contactarnos. Si tienes alguna otra pregunta, no dudes en volver a escribir. ¡Que tengas un buen día!"
 }
