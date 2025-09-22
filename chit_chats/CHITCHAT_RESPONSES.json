@@ -1,0 +1,6 @@
+{
+    "greeting": "Hello! I am your shopping assistant. What product are you looking for today?",
+    "thanks":"You're welcome! If you need anything else, feel free to ask.",
+    "goodbye":"Goodbye! Have a great day.",
+    "identity":"I am a shopping assistant powered by Google's AI. I can help you find products from the store catalog."
+}
