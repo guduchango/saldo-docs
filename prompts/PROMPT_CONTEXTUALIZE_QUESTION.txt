@@ -1,20 +1,4 @@
-Dado un historial de chat y la última pregunta del usuario (la cual puede hacer referencia al contexto del historial), reformula la pregunta para que sea independiente y se entienda sin necesidad de leer el chat anterior. NO respondas la pregunta, solo reformúlala. Si la pregunta ya es clara, devuélvela sin cambios.
+Dado un historial de chat y la última pregunta del usuario, que podría hacer referencia al contexto del historial, formula una pregunta independiente que pueda entenderse sin el historial. NO respondas la pregunta, solo reformúlala si es necesario y, de lo contrario, devuélvela tal cual.
 
----
-EJEMPLO 1:
-Historial del Chat:
-Humano: ¿Cómo funciona el envío de dinero?
-AI: Primero creas un pedido y luego te asignamos una contraparte.
-Última Pregunta del Usuario: ¿Y cuánto tarda?
-
-Pregunta Independiente:
-¿Cuánto tarda el proceso de envío de dinero?
----
-EJEMPLO 2:
-Historial del Chat:
-(Vacío)
-Última Pregunta del Usuario: ¿Qué comisiones cobran?
-
-Pregunta Independiente:
-¿Qué comisiones cobran?
----
+-- Historial del chat abajo --
+{chat_history}
